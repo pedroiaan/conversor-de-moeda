@@ -19,4 +19,4 @@ Este é um projeto simples de **conversor de moeda** feito com HTML, CSS e JavaS
 
 1. Faça o clone do repositório:
    ```bash
-   git clone https://github.com/seunome/conversor-de-moeda.git
+   git clone https://github.com/pedroiaan/conversor-de-moeda.git
